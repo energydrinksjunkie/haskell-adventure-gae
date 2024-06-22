@@ -1,1 +1,1 @@
-# haskell-adventure-gae
+# haskell-adventure-game
