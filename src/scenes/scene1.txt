@@ -1,0 +1,12 @@
+ _____
+|     |
+|  A  |
+|     |
+|_____|
+
+You wake up in a small room. There is a door in front of you and a window to your right.
+What do you do?
+
+Open the door -> scene2
+Look out the window -> scene3
+Go back to sleep -> scene4

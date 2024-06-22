@@ -9,7 +9,7 @@ version:             0.1.0.0
 -- description:
 -- bug-reports:
 -- license:
-license-file:        LICENSE
+-- license-file:        LICENSE
 author:              Dragan
 maintainer:          90929387+energydrinksjunkie@users.noreply.github.com
 -- copyright:
@@ -19,8 +19,14 @@ extra-source-files:  CHANGELOG.md, README.md
 
 executable haskell-adventure-game
   main-is:             Main.hs
-  -- other-modules:
+  exposed-modules:       Types, Scenes
   -- other-extensions:
-  build-depends:       base >=4.13 && <4.14
-  -- hs-source-dirs:
+  build-depends:
+         base >=4.13 && <4.14
+       , ansi-terminal >= 0.6
+       , directory >= 1.3
+       , text >= 1.2
+       , filepath >= 1.4
+       , split
+  hs-source-dirs:	src
   default-language:    Haskell2010
