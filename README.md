@@ -38,6 +38,7 @@ cabal run
 Each scene file contains ASCII art, a description, and options for the player to choose from, separated by double newlines (\n\n). Here is an example:
 
 ```
+scene1.txt
   _____
  /     \
 | () () |
@@ -47,6 +48,6 @@ Each scene file contains ASCII art, a description, and options for the player to
 
 You wake up in a dark room. What do you do?
 
-Explore the room -> scene
-Go back to sleep -> scene
+Explore the room -> scene2
+Go back to sleep -> scene3
 ```
