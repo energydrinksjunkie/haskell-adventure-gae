@@ -31,9 +31,12 @@ getChoice :: Int -> IO Int
 getChoice numOptions = do
     putStr "Unesi izbor: "
     choiceStr <- getLine
-    let choice = read choiceStr
-    if choice < 1 || choice > numOptions
+    if null choiceStr
         then do
-            putStrLn "Invalid choice. Please try again."
+            putStrLn "Nevažeći izbor. Molimo pokušajte ponovo."
             getChoice numOptions
-        else return choice
+        else case reads choiceStr of
+            [(choice, "")] | choice >= 1 && choice <= numOptions -> return choice
+            _ -> do
+                putStrLn "Nevažeći izbor. Molimo pokušajte ponovo."
+                getChoice numOptions

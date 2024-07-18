@@ -11,7 +11,11 @@
      `'-.,_____,.-''  ||||||
      
 Pratio sam krvave otiske van ateljea. Na ulici, odmah ispred vrata, našao sam dodatne tragove. Pored otisaka krvi, bilo je mrlja crvene farbe razmazane po zemlji. Blizu njih su bile iznošene cipele, napola sakrivene iza kontejnera. Izgleda da je ubica pokušao sakriti put ostavljajući farbu kako bi zbunio tragove.
+ 
+"Ovo nam može biti ključni trag," rekao je inspektor.
+ 
+Bilo je vreme da krenemo ka Pierrovoj sobi. Inspektor i ja smo se uputili tamo, odlučni da pronađemo više tragova.
 
 Šta ću učiniti?
 
-Pregledati cipele -> pogledaj_cipele
+Otići u Pierrovu sobu -> ispred_sobe
