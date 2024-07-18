@@ -1,0 +1,21 @@
+   o=(=(=(=(=(=(=)=)=)=)=o
+     !-'-'-'-/_\-'-'-'-! 
+     ! !  , /___\`  ! !!
+     !!! , /  |  \`  ! !
+     !!  ,|___|___`  !!!
+     !_,| |_______|` `_!
+     !-`| |       | |,-!
+     !!!! |       | ! !!
+     !!!! |       | !!!!
+     !!!!_|_______|_!!!!
+     !!!!___________!!!! 
+     !!!!           !!!!   
+     !!!!           !!!!   
+     !!!!           !!!!   
+     !!!!           !!!!
+
+Prilazim prozoru i gledam napolje. Montmartre je živahan kao i uvek. Ljudi žure ulicama, a prodavci na pijaci već postavljaju svoje štandove. Sve izgleda normalno, ali osećaj nemira me ne napušta. Možda je vreme da pročitam to pismo koje sam dobio sinoć.
+ 
+Šta ću učiniti?
+
+Pročitati pismo -> procitaj_pismo

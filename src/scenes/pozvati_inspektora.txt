@@ -1,0 +1,34 @@
+
+                                                   
+                    ..--""""----..                 
+                 .-"   ..--""""--.j-.              
+              .-"   .-"        .--.""--..          
+           .-"   .-"       ..--"-. \/    ;         
+        .-"   .-"_.--..--""  ..--'  "-.  :         
+      .'    .'  /  `. \..--"" __ _     \ ;         
+     :.__.-"    \  /        .' ( )"-.   Y          
+     ;           ;:        ( )     ( ).  \         
+   .':          /::       :            \  \        
+ .'.-"\._   _.-" ; ;      ( )    .-.  ( )  \       
+  "    `."""  .j"  :      :      \  ;    ;  \      
+        /"""""/     ;      ( )    "" :.( )   \     
+       /\    /      :       \         \`.:  _ \    
+      :  `. /        ;       `( )     (\/ :" \ \   
+       \   `.        :         "-.(_)_.'   t-'  ;  
+        \    `.       ;                    ..--":  
+         `.    `.     :              ..--""     :  
+           `.    "-.   ;       ..--""           ;  
+             `.     "-.:_..--""            ..--"   
+               `.      :             ..--""        
+                 "-.   :       ..--""              
+                    "-.;_..--""                    
+ 
+Podigao sam telefon i nazvao inspektora Duvaliera. Brzo se javio, očigledno očekujući moj poziv.
+ 
+"Antoine, hvala što si me pozvao," rekao je inspektor. "Znam da je ovo vanredno, ali trebaš mi na ovom slučaju. Slikar Pierre Dubois je pronađen mrtav u svom ateljeu, a sve ukazuje na nešto više od običnog ubistva. Molim te, dođi što pre."
+ 
+Osjećao sam težinu njegovih riječi. Prikupio sam nekoliko osnovnih stvari i krenuo prema ateljeu.
+
+Šta ću učiniti?
+
+Spremiti se i otići u atelje -> atelje_ispred

@@ -1,0 +1,12 @@
+  _____
+ /     \
+|       |
+|   G   |
+|       |
+ \_____/
+ 
+Pratio sam krvave otiske van ateljea. Na ulici, odmah ispred vrata, našao sam dodatne tragove. Pored otisaka krvi, bilo je mrlja crvene farbe razmazane po zemlji. Blizu njih su bile iznošene cipele, napola sakrivene iza kontejnera. Izgleda da je ubica pokušao sakriti put ostavljajući farbu kako bi zbunio tragove.
+
+Šta ću učiniti?
+
+Pregledati cipele -> pogledaj_cipele

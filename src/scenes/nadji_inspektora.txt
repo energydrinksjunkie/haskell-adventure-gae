@@ -1,0 +1,14 @@
+  _____
+ /     \
+|       |
+|   D   |
+|       |
+ \_____/
+ 
+Pronašao sam inspektora Duvaliera kako stoji pored prozora, gledajući napolje. Kad me je ugledao, odmah je prišao.
+ 
+"Antoine, drago mi je što si ovde. Situacija je teža nego što sam mislio. Pierre Dubois je imao mnogo neprijatelja, ali i prijatelja koji su ga poštovali. Moramo brzo delovati."
+
+Šta ću učiniti?
+
+Pitati inspektora za dodatne informacije -> dodatne_informacije

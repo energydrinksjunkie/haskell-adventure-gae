@@ -1,0 +1,17 @@
+  _____
+ /     \
+|       |
+|   E   |
+|       |
+ \_____/
+ 
+Približio sam se policajcima koji su bili raspoređeni po ateljeu. Jedan od njih, mladi policajac s neurednom uniformom, pristupio mi je.
+ 
+"Detektive, scena je očigledno brutalna," rekao je, gledajući me sa zabrinutim izrazom lica. "Žrtva je mladi slikar Pierre Dubois. Našli smo ga jutros, a sve upućuje na to da se borio pre nego što je ubijen. Ali nismo našli nikakve očigledne tragove koji bi nam pomogli da identifikujemo ubicu."
+ 
+Pogledao sam prema telu pokrivenom platnom i osećao težinu zadatka pred sobom.
+
+Šta ću učiniti?
+
+Istražiti mesto zločina -> istrazi_mesto_zlocina
+Istražiti telo -> istazi_telo

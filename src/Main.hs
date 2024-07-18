@@ -7,10 +7,9 @@ import System.IO
 
 main :: IO ()
 main = do
-    hSetBuffering stdout NoBuffering -- Da bismo odmah videli ispis
+    hSetBuffering stdout NoBuffering
 
-    -- Učitavanje početne scene
-    startScene <- readScene "scene1"
+    startScene <- readScene "start"
     displayScene startScene
 
 displayScene :: Scene -> IO ()
@@ -21,7 +20,7 @@ displayScene scene = do
     putStrLn ""
     putStrLn (description scene)
     putStrLn ""
-    putStrLn "Options:"
+    putStrLn "Opcije:"
     mapM_ (\(idx, (opt, _)) -> putStrLn (show idx ++ ". " ++ opt)) (zip [1..] (options scene))
     choice <- getChoice (length (options scene))
     let nextSceneFile = snd (options scene !! (choice - 1))
@@ -30,7 +29,7 @@ displayScene scene = do
 
 getChoice :: Int -> IO Int
 getChoice numOptions = do
-    putStr "Enter your choice: "
+    putStr "Unesi izbor: "
     choiceStr <- getLine
     let choice = read choiceStr
     if choice < 1 || choice > numOptions

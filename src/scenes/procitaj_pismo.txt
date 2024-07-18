@@ -1,0 +1,18 @@
+       ...
+     /`   `\
+    /       \
+   |\~~~~~~~/|
+   | \=====/ |
+   | /`...'\ |
+   |/_______\|
+ 
+Pismo sam pažljivo otvorio i počeo da čitam. Poruka je bila od mog starog prijatelja, inspektora Duvaliera:
+ 
+"Antoine, hitno mi je potrebna tvoja pomoć. Pronašli smo telo mladog slikara Pierrea Duboisa u njegovom ateljeu na Montmartreu. Zločin je užasan, a tragovi su misterija. Molim te, dođi što pre."
+ 
+Osećaj hitnosti obuzeo me je. Moram da krenem odmah.
+
+Šta ću učiniti?
+
+Spremiti se i otići u atelje -> atelje_ispred
+Pozvati inspektora Duvaliera -> pozvati_inspektora
