@@ -1,12 +1,26 @@
-  _____
- /     \
-|       |
-|   A   |
-|       |
- \_____/
- 
-Probudio sam se u svom skromnom stanu na Montmartreu. Sunce tek počinje da se probija kroz zavese, osvetljavajući mračnu sobu ispunjenu policama prepunim knjiga i starim novinama. Na stolu pored mog kreveta leži pismo koje sam primio sinoć, a koje će me odvesti na moj najizazovniji slučaj do sada.
+0================================================0
+|'.                    (|)                     .'|
+|  '.                   |                    .'  |
+|    '.                |O|                 .'    |
+|      '. ____________/===\_____________ .'      |
+|        :            `\"/`  ______     :     .. |
+|        :     mmmmmmm  V   |--%%--|    :   .'|| |
+|        :     |  |  |      |-%%%%-|    :  |  || |
+|        :     |--|--| @@@  |=_||_=|    :  I  || |
+|        :     |__|__|@@@@@ |_\__/_|    :  |  || |
+|        :             \|/   ____       :  |  || |
+|        :;;       .'``(_)```\__/````:  :  |  || |
+|        :||___   :================:'|  :  | 0+| |
+|        :||===)  | |              | |  :  |  || |
+|        ://``\\__|_|______________|_|__:  I  || |
+|      .'/'    \' | '              | '   '.|  || |
+|    .'           |                |       '. || |
+|  .'                                        '|| |
+|.'                                            '.|
+0================================================0
 
+Probudio sam se u svom skromnom stanu na Montmartreu. Sunce tek počinje da se probija kroz zavese, osvetljavajući mračnu sobu ispunjenu policama prepunim knjiga i starim novinama. Na stolu pored mog kreveta leži pismo koje sam primio sinoć, a koje će me odvesti na moj najizazovniji slučaj do sada.
+ 
 Šta ću učiniti?
 
 Pročitati pismo -> procitaj_pismo

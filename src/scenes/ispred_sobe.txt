@@ -1,12 +1,19 @@
-  _____
- /     \
-|       |
-|   F   |
-|       |
- \_____/
- 
-Stajao sam ispred Pierrove sobe, držeći kvaku. Tišina je bila gotovo opipljiva, ali onda sam čuo blago pomeranje unutra. Neko je bio tamo. Ruka mi je lagano drhtala dok sam razmišljao šta da uradim.
+            __________
+           |  __  __  |
+           | |  ||  | |
+           | |  ||  | |
+           | |__||__| |
+           |  __  __()|
+           | |  ||  | |
+           | |  ||  | |
+           | |  ||  | |
+           | |  ||  | |
+           | |__||__| |
+           |__________|
 
+
+Stajao sam ispred Pierrove sobe, držeći kvaku. Tišina je bila gotovo opipljiva, ali onda sam čuo blago pomeranje unutra. Neko je bio tamo. Ruka mi je lagano drhtala dok sam razmišljao šta da uradim.
+ 
 Šta ću učiniti?
 
 Naglo otvoriti vrata -> vrata_naglo

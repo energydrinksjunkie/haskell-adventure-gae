@@ -1,10 +1,20 @@
-  _____
- /     \
-|       |
-|   D   |
-|       |
- \_____/
- 
+      _________________________
+     /////////////|\\\\\\\\\\\\\
+    '.-------------------------.'
+     |                         |
+     | [] [] [] [] [] [] [] [] |
+     |                         |
+   _.-.        _ _ _ _         |
+   >   )] [] []||_||||[] [] [] |,'`\
+   `.,'________||___||_________|\  <
+    ||  /  _<> _     _    (_)<>\ ||
+    '' /<>(_),:/     \:. <>'  <>\||
+    __::::::::/ _ _ _ \:::::::::::_
+   __________           ___________
+      ,.::. /           \  _________
+      `''''/             \ \:'-'-'-'-
+       SSt||             || \\
+
 Brzo sam se obukao, uzeo svoj kaput i šešir, te izašao iz stana. Montmartre je bio tih u jutarnjim satima, a hladan vazduh me je razbudio dok sam žurio prema ateljeu Pierrea Duboisa.
  
 Kada sam stigao, policija je već bila tamo. Inspektor Duvalier me je čekao ispred zgrade, izgledao je zabrinuto.
@@ -12,7 +22,7 @@ Kada sam stigao, policija je već bila tamo. Inspektor Duvalier me je čekao isp
 "Antoine, drago mi je da si stigao," rekao je. "Uđimo unutra, pokazat ću ti mesto zločina."
  
 Ušli smo u atelje, prostoriju ispunjenu slikama, bojama i skicama. Na sredini prostorije ležalo je telo Pierrea Duboisa, pokriveno platnom.
-
+ 
 Šta ću učiniti?
 
 Razgovarati sa policijom -> policija

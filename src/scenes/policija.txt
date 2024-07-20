@@ -27,4 +27,4 @@ Pogledao sam prema telu pokrivenom platnom i osećao težinu zadatka pred sobom.
 Šta ću učiniti?
 
 Istražiti mesto zločina -> istrazi_mesto_zlocina
-Istražiti telo -> istazi_telo
+Istražiti telo -> istrazi_telo
