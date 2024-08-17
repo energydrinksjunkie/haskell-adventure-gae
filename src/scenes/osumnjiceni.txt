@@ -1,14 +1,23 @@
-  _____
- /     \
-|       |
-|   E   |
-|       |
- \_____/
- 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣠⣤⣤⣄⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣀⣴⣾⣿⣿⣿⠿⠿⠿⠿⢿⣿⣿⣷⣦⣀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣴⣾⣿⣿⠟⠋⣁⣤⣴⣶⣶⣶⣤⣤⣈⠙⠻⣿⣷⣦⠀⠀⠀⠀⠀
+⠀⠀⠀⢠⣾⣿⣿⠋⢀⣴⣿⡿⠋⠁⠀⠀⠈⠙⢿⣿⣿⣦⡈⠻⣿⣷⡄⠀⠀⠀
+⠀⠀⣰⣿⣿⡿⠁⣴⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣦⠈⢿⣿⣄⠀⠀
+⠀⢠⣿⣿⣿⠁⣼⣿⡿⣽⡇⠀⢀⠀⠀⠀⠀⠀⠀⢸⣷⠙⣿⣿⣧⠈⢿⣿⡄⠀
+⠀⢸⣿⣿⡇⢰⣿⣿⠁⣿⡇⠈⠉⠉⠀⠀⠉⠋⠁⢰⣿⡆⠸⣿⣿⡇⢸⣿⡇⠀
+⠀⢸⣿⣿⡇⠘⣿⣿⡀⢹⣧⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⡧⠀⣿⣿⣿⢸⣿⡷⠀
+⠀⠈⣿⣿⣿⡀⢻⣿⣧⣨⣿⣧⠀⠀⠀⠀⠀⠀⣴⣿⣿⣇⢠⣿⣿⡏⢸⣿⡇⠀
+⠀⠀⠹⣿⣿⣷⣠⡿⠋⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠻⣿⣿⠁⣼⣿⠁⠀
+⠀⠀⠀⠹⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷⣰⣿⠃⠀⠀
+⠀⠀⠀⠀⠙⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡿⠃⠀⠀⠀
+⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀
+⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀
+⠀⠀⠀⠀⠘⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠃⠀⠀⠀⠀
+
 "Inspektore Duvalier, imate li osumnjičene?" pitao sam.
  
 Inspektor je uzdahnuo i pogledao me ozbiljno. "Ima nekoliko ljudi koji su imali motive. Prvi je njegov bivši prijatelj i kolega, Jean Moreau. Imali su žestoku raspravu pre nekoliko nedelja. Druga je galeristkinja Sophie Legrand, koja je imala finansijske probleme zbog Pierrove poslednje izložbe. Treći je lokalni političar, Claude Martin, koji je javno kritikovao Pierrove radove."
-
+ 
 Šta ću učiniti?
 
 Ispitati krvave otiske -> otisci

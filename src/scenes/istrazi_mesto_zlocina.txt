@@ -1,16 +1,26 @@
-  _____
- /     \
-|       |
-|   F   |
-|       |
- \_____/
- 
+ ___________________________________________________________ 
+|* * * * * * * * * * * * * * * * * * * * * * * * * * * * * *| 
+| * * * * * * * * * * * * * * _ * * * * * * * * * * * * * * | 
+|* * * * * * * * * * * * * * / \ * * * * * * * * * * * * * *| 
+| * * * * * * * * * * * * * /___\ * * * * * * * * * * * * * | 
+|* * * * * * * * * * * * * *  |  * * * * * * * * * * * * * *| 
+| * * * * __(!)__ * * * * *  [=]  * * * * * __(!)__ * * * * | 
+|* * * * / |   | \ * * * * *  !  * * * * * / |   | \ * * * *|
+|======_/  | @ |  \_=====================_/  | @ |  \_======| 
+|     / \  |   |  / \                   / \  |   |  / \     | 
+|    /   \ |   | /   \       .;.       /   \ |   | /   \    | 
+|    |____\|___|/____|    __;(;);__    |____\|___|/____|    | 
+|   /_________________\   ||_;;;_||   /_________________\   | 
+|   |_________________|   ||  ;  ||   |_________________|   | 
+|___||||___________||||___||_____||___||||___________||||___| 
+    ||               ||               ||               ||   
+
 Odlučio sam da prvo detaljno istražim mesto zločina. Atelje je bio prepun umetničkih dela, neurednih platna, i razbacanih četkica. Osim haosa koji je nastao tokom borbe, bilo je teško pronaći nešto što bi moglo biti značajan trag.
  
 Dok sam pažljivo pregledao prostor, primetio sam nekoliko neobičnih detalja. Na zidu je bila razbijena slika koja je izgledala kao da je pala tokom borbe. Ispod nje sam našao komadić stakla koji nije pripadao okviru slike. Takođe, na podu sam primetio nekoliko krvavih otisaka stopala koji su vodili ka zadnjem izlazu.
  
 Ovi tragovi mogli bi nas odvesti bliže rešavanju misterije.
-
+ 
 Šta ću učiniti?
 
 Istražiti telo -> istrazi_telo
